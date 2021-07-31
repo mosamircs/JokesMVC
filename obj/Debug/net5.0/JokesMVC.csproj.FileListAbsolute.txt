@@ -835,3 +835,4 @@ D:\visual_studio_2019\JokesMVC\obj\Debug\net5.0\Razor\Views\Jokes\Delete.cshtml.
 D:\visual_studio_2019\JokesMVC\obj\Debug\net5.0\Razor\Views\Jokes\Details.cshtml.g.cs
 D:\visual_studio_2019\JokesMVC\obj\Debug\net5.0\Razor\Views\Jokes\Edit.cshtml.g.cs
 D:\visual_studio_2019\JokesMVC\obj\Debug\net5.0\Razor\Views\Jokes\Index.cshtml.g.cs
+D:\visual_studio_2019\JokesMVC\obj\Debug\net5.0\Razor\Views\Jokes\Search.cshtml.g.cs
