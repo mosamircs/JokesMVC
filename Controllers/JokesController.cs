@@ -25,6 +25,12 @@ namespace JokesMVC.Controllers
             return View(await _context.Joke.ToListAsync());
         }
 
+        // GET: Search for Jokes
+        public async Task<IActionResult> Search()
+        {
+            return View();
+        }
+
         // GET: Jokes/Details/5
         public async Task<IActionResult> Details(int? id)
         {
